@@ -1,2 +1,2 @@
 # malory
-Si4432 low power sensor module
+Low power Si4432 sensor module
